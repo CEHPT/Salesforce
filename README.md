@@ -27,3 +27,23 @@ ASM should be able to watch the ASO activities.
 ASM should be able to keep an eye on Monthly Orders and compare ASO results.
 RSM should be able to do whatever the ASM is doing along with consolidated Sales summary analysis.
 As and when there is a change in price list, it has to be intimated to all the Sales Force team.
+
+App login :
+
+ASO Login:
+
+Name Dhanasekar.
+Email : dhanasekar@gmail.com
+pass : Noob@123
+
+Name : Ram
+Email : interestingthamizha@gmail.com
+pass : Test@123
+
+ASM Login:
+Email : speedarchana30@gmail.com
+pass : ASM@123
+
+RSM Login:
+Email : purushoth1679@gmail.com
+pass : Thisismyaccount#@789
